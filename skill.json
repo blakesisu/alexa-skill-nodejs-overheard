@@ -3,34 +3,34 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Learn fun facts about space.",
+          "summary": "Get the latest and greatest from Overheard LA",
           "examplePhrases": [
-            "Alexa open space facts",
-            "Alexa ask space facts for a fact",
-            "Alexa tell space facts to tell me trivia"
+            "Alexa open ya heard",
+            "Alexa ask ya heard for a quote",
+            "Alexa tell ya heard to tell me some quotes"
           ],
           "keywords": [
-            "space",
-            "facts",
-            "trivia"
+            "heard",
+            "ya",
+            "quotes"
           ],
-          "name": "Space Facts",
-          "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          "name": "Ya Heard",
+          "description": "Ask for Ya Heard, and learn about what really matters, like an Angeleno's take on committment.\n\nYa Heard provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Ya Heard\" or \"Alexa, open Ya Heard\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         },
         "en-GB": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
+          "summary": "Get the latest and greatest from Overheard LA",
           "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
+            "Alexa open ya heard",
+            "Alexa ask ya heard for a quote",
+            "Alexa tell ya heard to tell me some quotes"
           ],
           "keywords": [
-            "music",
-            "streaming",
-            "radio"
+            "heard",
+            "ya",
+            "quotes"
           ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\""
+          "name": "Ya Heard",
+          "description": "Ask for Ya Heard, and learn about what really matters, like an Angeleno's take on committment.\n\nYa Heard provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Ya Heard\" or \"Alexa, open Ya Heard\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         }
       },
       "isAvailableWorldwide": true,
