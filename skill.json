@@ -15,6 +15,8 @@
           ],
           "name": "Local Smut",
           "description": "Ask for Local Smut, and learn about what really matters, like an Angeleno's take on committment.\n\nLocal Smut provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Local Smut\" or \"Alexa, open Local Smut\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          "smallIconUri": "https://imgur.com/a/RyoBQ",
+          "largeIconUri": "https://imgur.com/a/NJyAc"
         },
         "en-GB": {
           "summary": "Get the latest and greatest from Overheard LA",
@@ -28,7 +30,9 @@
             "smut"
           ],
           "name": "Local Smut",
-          "description": "Ask for Local Smut, and learn about what really matters, like an Angeleno's take on committment.\n\nLocal Smut provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Local Smut\" or \"Alexa, open Local Smut\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          "description": "Ask for Local Smut, and learn about what really matters, like an Angeleno's take on committment.\n\nLocal Smut provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Local Smut\" or \"Alexa, open Local Smut\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\"",
+          "smallIconUri": "https://imgur.com/a/RyoBQ",
+          "largeIconUri": "https://imgur.com/a/NJyAc"
         }
       },
       "isAvailableWorldwide": true,
