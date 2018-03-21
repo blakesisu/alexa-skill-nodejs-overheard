@@ -4,11 +4,26 @@
       "skill_id": "",
       "was_cloned": false,
       "merge": {
-        "skillManifest": {
+        "manifest": {
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "what_name_you_want_to_name_the_lambda"
+                "uri": ""
+              }
+            }
+          }
+        }
+      }
+    },
+    "blkalexa": {
+      "skill_id": "amzn1.ask.skill.1149c448-12bd-4fd7-8b6a-684dc452b6ea",
+      "was_cloned": false,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-Twit_Heard-blkalexa"
               }
             }
           }

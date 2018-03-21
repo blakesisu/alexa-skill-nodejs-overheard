@@ -1,36 +1,34 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
           "summary": "Get the latest and greatest from Overheard LA",
           "examplePhrases": [
-            "Alexa open ya heard",
-            "Alexa ask ya heard for a quote",
-            "Alexa tell ya heard to tell me some quotes"
+            "Alexa open local smut",
+            "Alexa ask local smut for some smut",
+            "Alexa tell local smut to tell me some smut"
           ],
           "keywords": [
-            "heard",
-            "ya",
-            "quotes"
+            "local",
+            "smut"
           ],
-          "name": "Ya Heard",
-          "description": "Ask for Ya Heard, and learn about what really matters, like an Angeleno's take on committment.\n\nYa Heard provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Ya Heard\" or \"Alexa, open Ya Heard\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          "name": "Local Smut",
+          "description": "Ask for Local Smut, and learn about what really matters, like an Angeleno's take on committment.\n\nLocal Smut provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Local Smut\" or \"Alexa, open Local Smut\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         },
         "en-GB": {
           "summary": "Get the latest and greatest from Overheard LA",
           "examplePhrases": [
-            "Alexa open ya heard",
-            "Alexa ask ya heard for a quote",
-            "Alexa tell ya heard to tell me some quotes"
+            "Alexa open local smut",
+            "Alexa ask local smut for some smut",
+            "Alexa tell local smut to tell me some smut"
           ],
           "keywords": [
-            "heard",
-            "ya",
-            "quotes"
+            "local",
+            "smut"
           ],
-          "name": "Ya Heard",
-          "description": "Ask for Ya Heard, and learn about what really matters, like an Angeleno's take on committment.\n\nYa Heard provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Ya Heard\" or \"Alexa, open Ya Heard\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          "name": "Local Smut",
+          "description": "Ask for Local Smut, and learn about what really matters, like an Angeleno's take on committment.\n\nLocal Smut provides fun the whole family can enjoy and is guaranteed to make you think less of Los Angeles.\n\nTo start, just say \"Alexa, launch Local Smut\" or \"Alexa, open Local Smut\" to get a quote\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         }
       },
       "isAvailableWorldwide": true,

@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-nodejs-fact-i18n",
+  "name": "skill-local-smut-i18n",
   "version": "1.0.0",
-  "description": "I18n version of fact skill.",
+  "description": "I18n version of local smut from twitter skill.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,13 +9,13 @@
   "keywords": [
     "alexa",
     "skill",
-    "fact"
+    "local",
+    "smut"
   ],
   "author": "Amazon.com",
   "license": "Apache-2.0",
   "dependencies": {
     "oauth": "^0.9.15",
-    "dotenv": "^4.0.0",
     "alexa-sdk": "^1.0.12"
   }
 }
